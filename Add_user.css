@@ -1,0 +1,19 @@
+.bg-container {
+    background-color: hsl(101, 48%, 48%);
+    background-size: cover;
+    height: 100vh;
+   
+}
+
+.required-msg {
+    color: red;
+}
+.text-container{
+    margin-left:380px;
+    margin-top:20px;
+    background-color: #ffffff;
+    border-radius:20px;
+    padding-right:20px;
+    width:400px;
+   
+}
